@@ -3,7 +3,7 @@
 > A **3D, browser-playable** city building game — no download, no install, just open a tab and build.
 
 [![Launch Game](https://img.shields.io/badge/Play%20Now-Launch%20Game%20webGL2-4a9edd?style=for-the-badge)](https://pannilal.github.io/3d.city/index.html)<br>
-[![Launch Game](https://img.shields.io/badge/Play%20Now-Launch%20Game%20webGPU-84DD4A?style=for-the-badge)]([https://pannilal.github.io/3d.city/index_gpu.html](https://pannilal.github.io/3D.city/index_gpu.html))
+[![Launch Game](https://img.shields.io/badge/Play%20Now-Launch%20Game%20webGPU-84DD4A?style=for-the-badge)](https://pannilal.github.io/3d.city/index_gpu.html)
 
 ## About
 3d city is an open-source, fully 3D city builder that runs entirely in your web browser via WebGL2 or webGPU. It combines:
