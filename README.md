@@ -16,13 +16,13 @@ Fully open-source and playable in any modern browser.
 
 ## Screenshots
 
-<a target='_blank' href='https://pannilal.github.io/3d.city/index.html'><img src="https://pannilal.github.io/3d.city/assets/img/preview01.jpg"/></a><br>
-<a target='_blank' href='https://pannilal.github.io/3d.city/index.html'><img src="https://pannilal.github.io/3d.city/assets/img/preview02.jpg"/></a><br>
-<a target='_blank' href='https://pannilal.github.io/3d.city/index.html'><img src="https://pannilal.github.io/3d.city/assets/img/preview03.jpg"/></a><br>
+<a target='_blank' href='https://pannilal.github.io/3D.city/index.html'><img src="https://pannilal.github.io/3D.city/assets/img/preview01.jpg"/></a><br>
+<a target='_blank' href='https://pannilal.github.io/3D.city/index.html'><img src="https://pannilal.github.io/3D.city/assets/img/preview02.jpg"/></a><br>
+<a target='_blank' href='https://pannilal.github.io/3D.city/index.html'><img src="https://pannilal.github.io/3D.city/assets/img/preview03.jpg"/></a><br>
 
 ## Mini tutorial
 
-<a target='_blank' href='https://pannilal.github.io/3d.city/index.html'><img src="https://pannilal.github.io/3d.city/assets/img/tuto.png"/></a><br>
+<a target='_blank' href='https://pannilal.github.io/3D.city/index.html'><img src="https://pannilal.github.io/3D.city/assets/img/tuto.png"/></a><br>
 
 ## Roadmap
 
