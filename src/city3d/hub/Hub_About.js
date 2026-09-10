@@ -47,5 +47,6 @@ export class Hub_About extends Hub_Pannel {
         body.appendChild( this.linke );
 
 	}
-
 }
+
+
