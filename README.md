@@ -1,9 +1,9 @@
 # 3d.city v 1.0.0
 
-> A **3D, browser-playable** city building game — no download, no install, just open a tab and build.
+> A **3D, browser-playable** city dev game
 
-[[Launch Game](https://pannilal.github.io/3D.city/index.html)]<br>
-[[Launch Game](https://pannilal.github.io/3D.city/index_gpu.html)]
+[Launch Game normal graphics](https://pannilal.github.io/3D.city/index.html)<br>
+[Launch Game advanced graphics](https://pannilal.github.io/3D.city/index_gpu.html)
 
 ## About
 3d city is an open-source, fully 3D city builder that runs entirely in your web browser via WebGL2 or webGPU. It combines:
